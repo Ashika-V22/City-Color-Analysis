@@ -28,7 +28,7 @@ OUT_DIR = BASE_DIR / "data" / "output"
 DATA_IN.mkdir(parents=True, exist_ok=True)
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
-st.title("🎨 Color Mood Analytics — Live Dashboard")
+st.title("🖼️ City Color Analytics — Live Dashboard")
 st.markdown(
     "Upload images and get dominant color palettes + emotion visualizations. "
     "This is a Data Visualization project focusing on color trends and mood analysis."
